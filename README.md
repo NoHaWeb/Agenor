@@ -1,8 +1,11 @@
 # Agenor
 Document Management System
 
-`Agenor` is a web based document management system written in PHP with MySQL backend. It features control of access to files, and automated install and upgrades.
+`Agenor` is a web based document management system written in PHP with MySQL backend. It features control of access to files, and automated install and upgrades. 
+
+An effective, fast, environmentally friendly solution. No more postage, unnecessary paper printing.
 <!-- This is commented out. 
+
 ## Dev Team:
 Nikolett, Macsuga Rózsa
 Norbert, Hanzel
