@@ -22,3 +22,7 @@ The goal of our project is to create a respectful and inclusive community where 
 - All reported behavior that violates the code of conduct will be reviewed immediately.
 - Project maintainers have the right to remove or address content and contributors that do not meet these standards.
 - If community members do not follow these guidelines, they may be temporarily or permanently excluded from the project.
+
+## Contact
+
+If you experience or witness behavior contrary to this code of conduct, contact vasadam@email.com.
