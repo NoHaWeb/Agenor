@@ -15,7 +15,6 @@ It is accessible from anywhere on any device.
 You can access it all from any computer or device, anywhere, at any time, ensuring convenience and flexibility for users regardless of their location or the device they are using.
 
 <!-- This is commented out. 
-
 ## Dev Team:
 Nikolett, Macsuga Rózsa
 Norbert, Hanzel
@@ -27,6 +26,8 @@ Gábor, Máté
 ## Product Owner
 * [Bagoly Gábor](https://github.com/OOHQ3E)
 -->
+<br />
+
 | Dev Team | Scrum Master | Product Owner |
 |:--------:|:-----------:|:----------:|
 |[Nikolett, Macsuga Rózsa](https://github.com/rozsanikolett)|[Ádám, Vas](https://github.com/vasadam1)|[Gábor, Bagoly](https://github.com/OOHQ3E)|
