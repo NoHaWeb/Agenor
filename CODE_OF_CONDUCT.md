@@ -15,3 +15,8 @@ The goal of our project is to create a respectful and inclusive community where 
 - Harassment, discrimination or derogatory comments are not tolerated.
 - Any form of bullying, trolling or disrespectful behavior is unacceptable.
 - Actions or language that create an uncomfortable or hostile environment are not permitted.
+
+
+## Application of rule
+
+- All reported behavior that violates the code of conduct will be reviewed immediately.
