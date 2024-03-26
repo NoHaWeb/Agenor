@@ -25,4 +25,8 @@ The goal of our project is to create a respectful and inclusive community where 
 
 ## Contact
 
-If you experience or witness behavior contrary to this code of conduct, contact vasadam@email.com.
+If you experience or witness behavior contrary to this code of conduct, contact vasadam@email.com.</br >
+
+All reports are treated confidentially.</br >
+
+We appreciate your commitment to maintaining a positive and respectful community for all.
