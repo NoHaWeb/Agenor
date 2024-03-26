@@ -13,3 +13,5 @@ We take security seriously. If you discover a security issue in the project, ple
 3. **Response time**: We will handle your report within 72 hours and we will try to provide information on our progress.
 
 4. **Disclosure Policy**: We coordinate vulnerability disclosure and patching. Thank you in advance for your patience and understanding during the process.
+
+**Note**: By reporting security issues, you consent to us contacting you to clarify the reported vulnerability.
