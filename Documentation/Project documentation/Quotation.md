@@ -15,3 +15,13 @@ M.G|Medior developer|3140 ft|
 M-R N|Senior developer|4000 ft|
 V. Á.|SCRUM MASTER|3450 ft|
 
+### Distribution of tasks:
+Summary|Task|Estimated Time|Responsible
+--|------|---|--------
+Consultation|Consultation with the customer|3 hours| G.B
+Design|System design based on the points of the consultation|10 hours|E.
+Implementation|Backend, frontend development|40 hours|E.
+Testing|Testing, error correction|40 hours|E.
+System handover|System handover, introduction|2 hours|G.B
+
+### Total: HUF 647,000.
