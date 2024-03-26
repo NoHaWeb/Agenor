@@ -7,3 +7,5 @@ We take security seriously. If you discover a security issue in the project, ple
 ### Reporting process
 
 1. **Private report**: Send an email to vasadam@email.com detailing the vulnerability. Please refrain from making it public until we have had a chance to deal with it.
+
+2. **Include Details**: Provide thorough information about the vulnerability, steps to reproduce, and proof-of-concept code if applicable.
