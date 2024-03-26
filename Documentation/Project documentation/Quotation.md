@@ -13,7 +13,7 @@ Name|Position|Hourly rate / gross|
 H. N.|Medior developer|3000 ft|
 M.G|Medior developer|3140 ft|
 M-R N|Senior developer|4000 ft|
-V. Á.|SCRUM MASTER|3450 ft|
+V. Á.|Scrum master|3450 ft|
 
 ### Distribution of tasks:
 Summary|Task|Estimated Time|Responsible
