@@ -14,6 +14,15 @@ Currently, our organization relies on traditional file storage methods, such as 
 Objectives
 ----------
 
+*   Implement a cloud-based file sharing platform to improve productivity and collaboration within the organization.
+    
+*   Enable seamless file access from any location or device, ensuring flexibility and convenience for users.
+    
+*   Enhance data security and privacy through robust authentication, access control, and encryption mechanisms.
+    
+*   Streamline file management processes, including uploading, sharing, and organizing files, to reduce manual effort and errors.
+    
+
 Model of Current Business Processes
 -----------------------------------
 
