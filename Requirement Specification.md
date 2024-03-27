@@ -52,5 +52,35 @@ The demanded business processes for the new cloud-based file sharing platform in
 Request List
 ------------
 
+1.  **User Authentication and Authorization**:
+    
+    *   Implement secure user authentication mechanisms, including password-based login and multi-factor authentication (MFA).
+        
+    *   Enable role-based access control to differentiate between administrators and regular users.
+        
+2.  **File Management**:
+    
+    *   Develop functionalities for uploading, downloading, and organizing files within user libraries.
+        
+    *   Ensure efficient storage and retrieval of files in the cloud, with support for various file formats and sizes.
+        
+3.  **Access Control**:
+    
+    *   Enable users to set access permissions for shared files, including read-only and read-write access.
+        
+    *   Implement encryption mechanisms to protect files during transmission and storage.
+        
+4.  **File Sharing**:
+    
+    *   Allow users to share files with team members through secure sharing links or direct invitations.
+        
+    *   Provide options for configuring access levels and expiration dates for shared links.
+        
+5.  **User Profile Management**:
+    
+    *   Enable users to customize their profiles, update personal information, and manage account settings.
+        
+    *   Implement password reset and email verification functionalities for account security.
+    
 Glossary
 --------
