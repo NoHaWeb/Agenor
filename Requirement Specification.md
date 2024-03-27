@@ -84,3 +84,13 @@ Request List
     
 Glossary
 --------
+
+*   **Administrator**: A user with elevated privileges who can manage user accounts, access permissions, and system settings.
+    
+*   **User**: A regular user of the platform who can upload, share, and access files based on assigned permissions.
+    
+*   **Access Permissions**: Permissions granted to users for accessing and interacting with files, including read, write, and delete actions.
+    
+*   **Cloud Storage**: Remote storage infrastructure hosted by a third-party provider, accessible over the internet for storing and accessing files.
+    
+*   **Encryption**: The process of encoding data to protect it from unauthorized access or tampering, often used for securing files during transmission and storage.
