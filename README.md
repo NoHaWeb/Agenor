@@ -1,4 +1,4 @@
-# **Agenor** &emsp; <sup><sub> :point_right: </sub></sup> <sup><sub>[online DEMO](https://nohaweb.com/Agenor/)</sub></sup>
+# **Agenor** &emsp; <sup><sub> :point_right: </sub></sup> <sup><sub>[online DEMO](https://nohaweb.com/Agenor/){:target="_blank"}</sub></sup>
 Document Management System.
 
 
