@@ -1,5 +1,6 @@
-# **Agenor** &emsp; <sup><sub> :point_right: </sub></sup> <sup><sub>[online DEMO](https://nohaweb.com/Agenor/){:target="_blank"}</sub></sup>
+# **Agenor** &emsp; <sup><sub> :point_right: </sub></sup> <sup><sub> <a href="https://nohaweb.com/Agenor/" target="_blank">online DEMO</a> </sub></sup>
 Document Management System.
+
 
 
 ![Alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR43sHy4Xj3azp4riWI3iQvBxLkmtgbB3T0nIHAcfhzi7xvcLbw)`Agenor` is a web based document management system written in *PHP* with *MySQL* backend. It features control of access to files, and automated install and upgrades. An effective, fast, environmentally friendly solution. 
