@@ -42,16 +42,18 @@ Model of Demanded Business Processes
 
 The demanded business processes for the new cloud-based file sharing platform include:
 
-1.  Users uploading files to the platform's cloud storage through a user-friendly web interface or desktop application.
-    
-2.  Files being securely stored in the cloud and accessible to authorized users based on predefined access permissions.
-    
-3.  Users sharing files with team members through secure sharing links or direct invitations, with configurable access levels (e.g., view-only, edit).
-    
-4.  Real-time synchronization of files across devices, ensuring users have access to the latest versions of documents.
-    
-5.  Administrators managing user accounts, access permissions, and system settings through an administrative dashboard.
-    
+```mermaid
+flowchart TD;
+A("Users uploading files to the platform's cloud storage through a user-friendly web interface or desktop application.");
+B("Files being securely stored in the cloud and accessible to authorized users based on predefined access permissions.");
+C("Users sharing files with team members through secure sharing links or direct invitations, with configurable access levels (e.g., view-only, edit).");
+D("Real-time synchronization of files across devices, ensuring users have access to the latest versions of documents.");
+E("Administrators managing user accounts, access permissions, and system settings through an administrative dashboard.");
+A-->B;
+B-->C;
+C-->D;
+D-->E;
+```
 Request List
 ------------
 
