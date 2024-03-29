@@ -28,12 +28,15 @@ Model of Current Business Processes
 
 Currently, our organization follows manual file sharing processes, which involve:
 
-1.  Users creating files locally on their devices or accessing files from shared network drives.
-    
-2.  Files being attached to emails or transferred via file transfer protocols (FTP) for sharing with team members.
-    
-3.  Users manually managing file versions and access permissions, leading to potential inconsistencies and conflicts.
-    
+```mermaid
+flowchart TD;
+A("Users creating files locally on their devices or accessing files from shared network drives.");
+B("Files being attached to emails or transferred via file transfer protocols (FTP) for sharing with team members.");
+C("Users manually managing file versions and access permissions, leading to potential inconsistencies and conflicts.");
+A-->B;
+B-->C;
+C-->A;
+```
 Model of Demanded Business Processes
 ------------------------------------
 
