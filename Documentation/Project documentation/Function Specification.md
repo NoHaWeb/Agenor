@@ -80,6 +80,8 @@ Functional Requirements
 ### 11\. Scenarios
 
 *    When opening the website, the user encounters the login interface for the first time.
+
+*    The login will be confirmed with Multi-factor authentication.
   
 *    After logging in, files can be uploaded to a field that functions as drag and drop.
   
