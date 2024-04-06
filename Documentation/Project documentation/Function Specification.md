@@ -82,6 +82,13 @@ Functional Requirements
 *    When opening the website, the user encounters the login interface for the first time.
   
 *    After logging in, files can be uploaded to a field that functions as drag and drop.
+  
+*    You can search for files that have been shared with us using a search bar.
+  
+*    In the header of the website, you can select to see which files have been uploaded by the logged-in profile.
+
+  
+
 Non-Functional Requirements
 ---------------------------
 
