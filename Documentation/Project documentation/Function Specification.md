@@ -77,7 +77,11 @@ Functional Requirements
     
 *   Logging system to record system activities, user actions, and potential issues for troubleshooting purposes.
     
+### 11\. Scenarios
 
+*    When opening the website, the user encounters the login interface for the first time.
+  
+*    After logging in, files can be uploaded to a field that functions as drag and drop.
 Non-Functional Requirements
 ---------------------------
 
