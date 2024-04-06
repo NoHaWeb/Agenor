@@ -87,6 +87,7 @@ Functional Requirements
   
 *    In the header of the website, you can select to see which files have been uploaded by the logged-in profile.
 
+*    At the uploaded files there will be possibility of file deletion and modification. 
   
 
 Non-Functional Requirements
