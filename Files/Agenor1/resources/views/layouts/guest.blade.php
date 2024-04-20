@@ -19,7 +19,8 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-white-100 bg-white-900">
             <div>
                 <a href="/">
-                    <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+                    <!-- <x-application-logo class="w-20 h-20 fill-current text-gray-500" /> -->
+                    <img id="back" class="" src="https://i.ibb.co/Y2PGx3n/agenor.png">
                 </a>
             </div>
 
