@@ -22,7 +22,7 @@ class UploadController extends Controller
 
         //write the logic here to store file in database
 
-        return redirect('dashboard')->with('status', 'File Has been uploaded successfully in Laravel');
+        return redirect('dashboard')->with('status', 'File Has been uploaded successfully in Agenor!');
 
     }
 }

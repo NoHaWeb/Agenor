@@ -1,31 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>File Upload by AGENOR </title>
+  <title>File Upload with Validation in Laravel 11 - Tutsmake.com</title>
   <meta name="csrf-token" content="{{ csrf_token() }}">
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
 
 <div class="container mt-4 ">
-<x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
-    </x-slot>
 
-    <div class="py-12">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
-                    {{ __("You're logged in!") }}
-                </div>
-            </div>
-        </div>
-    </div>
-
-  <h1 class="text-center font-extrabold text-3xl">File Upload by AGENOR</h1><br><br>
+  <h2 class="text-center">File Upload with Validation in Laravel 11 - Tutsmake.com</h2>
 
       <form method="POST" enctype="multipart/form-data" id="upload" action="{{ url('upload') }}" >
                 @csrf
@@ -58,5 +42,3 @@
 </div>  
 </body>
 </html>
-
-</x-app-layout>
