@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>File Upload with Validation in Laravel 11 - Tutsmake.com</title>
+  <title>File Upload with Validation in Agenor</title>
   <meta name="csrf-token" content="{{ csrf_token() }}">
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
@@ -9,7 +9,7 @@
 
 <div class="container mt-4 ">
 
-  <h2 class="text-center">File Upload with Validation in Laravel 11 - Tutsmake.com</h2>
+  <h2 class="text-center">File Upload with Validation in Agenor</h2>
 
       <form method="POST" enctype="multipart/form-data" id="upload" action="{{ url('upload') }}" >
                 @csrf
