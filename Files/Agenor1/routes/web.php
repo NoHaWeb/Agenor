@@ -3,9 +3,11 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UploadController;
+use App\Http\Controllers\FileController;
 
 Route::get('dashboard', [UploadController::class, 'index']);
 Route::post('upload', [UploadController::class, 'store']);
+Route::get('files', [FileController::class, 'fileindex']);
 
 
 Route::get('/', function () {
