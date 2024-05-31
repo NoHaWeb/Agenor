@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>File Upload by AGENOR </title>
-  <meta name="csrf-token" content="{{ csrf_token() }}">
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-</head>
-<body>
+<!--resources\views\dashboard.blade.php!-->
 
-<div class="container mt-4 ">
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
@@ -26,11 +18,11 @@
     </div>
 
   <h1 class="text-center font-extrabold text-3xl">File Upload by AGENOR</h1><br><br>
-
+<div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
       <form method="POST" enctype="multipart/form-data" id="upload" action="{{ url('upload') }}" >
                 @csrf
           <div class="row">
-              <div class="col-md-6 offset-md-3">
+              <div class="col-md-12">
                   <div class="form-group">
                       <input type="file" name="file" placeholder="Choose file" id="file">
                         @error('file')
@@ -39,24 +31,24 @@
                   </div>
               </div>
                 
-              <div class="col-md-6 offset-md-3">
+              <div class="col-md-12">
                   <button type="submit" class="btn btn-primary" id="submit">Submit</button>
               </div>
               <br>
-              <div class="col-md-6 offset-md-3">
+
+              <div class="col-md-12">
                             @if(session('status'))
                               <div class="alert alert-success">
                                   {{ session('status') }}
                               </div>
                             @endif
-
+							
+							@include('files', ['files' => session('files', [])])
                 </div>
           </div>     
       </form>
-</div>
-
-</div>  
-</body>
-</html>
-
+	  			  <hr>
+      </div> 
+	  
 </x-app-layout>
+
