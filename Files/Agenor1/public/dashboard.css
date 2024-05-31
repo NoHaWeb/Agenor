@@ -48,3 +48,9 @@ h1 {
 .list-item a:hover {
     text-decoration: underline;
 }
+
+hr {
+	border-style: double;
+    border-color: black;
+    border-width: medium;
+}
