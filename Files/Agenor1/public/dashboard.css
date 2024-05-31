@@ -39,3 +39,12 @@ h1 {
 .list-item {
     margin-bottom: 0.5rem;
 }
+
+.list-item a {
+    color: #4299e1;
+    text-decoration: none;
+}
+
+.list-item a:hover {
+    text-decoration: underline;
+}
