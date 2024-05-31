@@ -1,23 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
 <head>
     <meta charset="UTF-8">
-    <title>Lists of files</title>
+    <title>Fájlok listázása</title>
+	<link href="{{ asset('css/dashboard.css') }}" rel="stylesheet">
 </head>
 <body>
-    <h1>Files in folder</h1>
-
-    @if(session('status'))
-        <div class="alert alert-success">
-            {{ session('status') }}
-        </div>
-    @endif
-
-    <div>
-        <h2>Uploaded Files</h2>
-        <ul>
+<hr>
+    <div class="container mt-4">
+        <h1>Fájlok a mappában</h1>
+        <ul class="list-group">
             @foreach($files as $file)
-                <li>{{ basename($file) }} - <a href="{{($file)}}">Download</a></li>
+                <li class="list-group-item"><a href="{{ $file }}">{{ basename($file) }}</a></li>
             @endforeach
         </ul>
     </div>
